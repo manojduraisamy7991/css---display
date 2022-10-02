@@ -1,0 +1,42 @@
+body {
+  color: black;
+  background-color: wheat;
+}
+.block {
+  height: 10rem;
+  width: 10rem;
+  margin: 1rem;
+  color: black;
+  text-align: center;
+  font-size: 5rem;
+}
+.div {
+  height: 10rem;
+  width: 10rem;
+  margin: 1rem;
+  color: black;
+  text-align: center;
+  font-size: 1rem;
+  background-color: red;
+}
+.none {
+  display: none;
+}
+.block1 {
+  background-color: aquamarine;
+  display: inline-block;
+}
+.block2 {
+  background-color: red;
+  display: inline-block;
+}
+.block3 {
+  background-color: yellow;
+  display: inline-block;
+}
+a {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: rgb(238, 228, 228);
+  display: inline-block;
+}
